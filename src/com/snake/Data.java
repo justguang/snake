@@ -6,7 +6,9 @@ import javax.swing.*;
 import java.net.URL;
 import java.util.Date;
 
-//存放外部数据
+/**
+ * 游戏相关数据、资源
+ */
 public class Data {
     //游戏面板头部 URL、图片
     public static URL headerURL = Date.class.getResource("/statics/header.png");

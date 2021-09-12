@@ -8,6 +8,10 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.Random;
 
+
+/**
+ * 游戏界面相关
+ */
 public class GamePanel extends JPanel implements KeyListener, ActionListener {
     int lenth;//蛇的长度
     int[] snakeX = new int[600];//蛇的X坐标

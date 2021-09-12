@@ -2,6 +2,13 @@ package com.snake;
 
 import javax.swing.*;
 
+/**
+ * Demoe 贪吃蛇
+ *
+ * @author justguang
+ * @version 1.8
+ * @date 20210910
+ */
 public class StartGames {
     public static void main(String[] args) {
         //绘制静态窗口 JFrame
